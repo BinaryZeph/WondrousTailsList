@@ -1,0 +1,13 @@
+{
+  "Author": "Zeph#4967",
+  "Name": "Wondrous Tails List",
+  "Punchline": "Plain text list view of your Wondrous Tails tasks, with copy/export button.",
+  "Description": "Use /wtlist to display your current book in plain text format. Click 'Copy List' for a list you can paste into discord to coordinate with friends.<br><br>Icon by Free Preloaders on freeicons.io.",
+  "InternalName": "WondrousTailsList",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "wondroustails",
+    "plugin",
+    "utility"
+  ]
+}                               
